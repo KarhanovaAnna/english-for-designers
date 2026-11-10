@@ -1,9 +1,9 @@
 # Letterform & Haiku
 
-![Crocheted letterform capital K](Crocheted K.jpg)
+![Crocheted letterform capital K]Crocheted K.jpg)
 
 A thread runs through words   
 Lost meaning between fingers  
 What does it say now 
 
-See [the process] (process.md)
+See[the process](process.md)
