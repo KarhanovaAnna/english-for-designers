@@ -1,6 +1,6 @@
 # Letterform & Haiku
 
-![Crocheted letterform capital K] (Crocheted K.jpg)
+![Crocheted letterform capital A] (Letter A.jpg)
 
 
 ## Haiku
