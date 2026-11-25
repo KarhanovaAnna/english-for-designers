@@ -17,3 +17,5 @@
 
 ## Protest for independent media
 One day, my classmates and I decided to leave halfway through our class to join a protest in Prague in support of Czech Television and Czech Radio’s independence. We felt that the issue was extremely important and that it was worth showing our support in person rather than simply talking about it.
+
+![Selfie of 4 people attending prostest](protest-1.jpg)![Czech flag wawing over protesting crowd ](protest-2.jpg)
