@@ -1,6 +1,7 @@
 # Process
 
-- [Letterform A process]
+![Four crocheted letterform capital A](
+
 - I started by choosing a crochet hook and yellow and purple yarn.
 - I crocheted four capital letter A shapes in different sizes.
 - I experimented with dipping the crocheted letters into orange paint to create stamp-like prints.
